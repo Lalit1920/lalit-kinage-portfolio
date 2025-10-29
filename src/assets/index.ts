@@ -19,6 +19,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.svg";
+import springboot from "./tech/springboot.svg";
+import hibernate from "./tech/hibernate.svg";
+import microservices from "./tech/microservices.svg";
+import mysql from "./tech/mysql.svg";
+import postman from "./tech/postman.svg";
+import aws from "./tech/aws.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -52,6 +59,13 @@ export {
   tailwind,
   typescript,
   threejs,
+  java,
+  springboot,
+  hibernate,
+  microservices,
+  mysql,
+  postman,
+  aws,
   meta,
   shopify,
   starbucks,

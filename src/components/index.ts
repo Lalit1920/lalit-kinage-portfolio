@@ -9,6 +9,7 @@ import Hero from "./sections/Hero";
 import Navbar from "./layout/Navbar";
 import About from "./sections/About";
 import Tech from "./sections/Tech";
+import Skills from "./sections/Skills";
 import Education from "./sections/Education";
 import Experience from "./sections/Experience";
 import Works from "./sections/Works";
@@ -21,6 +22,7 @@ export {
   Navbar,
   About,
   Tech,
+  Skills,
   Education,
   Experience,
   Works,

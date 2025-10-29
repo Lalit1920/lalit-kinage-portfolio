@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="#59666c">
+  <rect width="256" height="256" fill="#59666c" rx="25"/>
+  <path d="M128 48c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80zm0 144c-35.346 0-64-28.654-64-64s28.654-64 64-64 64 28.654 64 64-28.654 64-64 64z" fill="white"/>
+  <path d="M100 100h56v8h-56v-8zm0 16h56v8h-56v-8zm0 16h40v8h-40v-8zm0 16h48v8h-48v-8z" fill="#59666c"/>
+  <text x="128" y="200" text-anchor="middle" fill="white" font-family="Arial" font-size="16" font-weight="bold">HIBERNATE</text>
+</svg>
